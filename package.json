@@ -1,0 +1,23 @@
+{
+  "name": "webpack-ts-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack --config webpack.config.js",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server"
+  },
+  "keywords": [],
+  "author": "garen",
+  "license": "ISC",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "cross-env": "^5.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.2",
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2"
+  }
+}

@@ -4,16 +4,15 @@
 ## Todo
 1. 集成tslint   
 
-## Demo
+## 
 1. change Background Color
-2. create Hex Project
+2. create Hex Color
 3. Pass the Message Project
 4. Counter
-5. 
-6. Background Image Slider
-7. CalCulator 
-8. Digital Clock
-9. NavBar
+5. Background Image Slider
+6. CalCulator 
+7. Digital Clock
+8. NavBar
 
 
 

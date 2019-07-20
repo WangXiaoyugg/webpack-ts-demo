@@ -7,5 +7,7 @@ import "./common/reset.scss"
 // import "./create-hex-color/index"
 
 // random quotes
-import './random-quotes/index'
+// import './random-quotes/index'
 
+// pass message
+import "./pass-message/index"

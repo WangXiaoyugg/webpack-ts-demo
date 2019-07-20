@@ -11,7 +11,7 @@
 4. Pass the Message Project
 5. Counter
 6. Background Image Slider
-7. CalCulator 
+7. Calculator 
 8. Digital Clock
 9. NavBar
 

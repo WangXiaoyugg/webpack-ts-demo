@@ -6,7 +6,7 @@ const isProduction = process.env.NODE_ENV === 'production'
 
 
 module.exports = {
-  mode: isProduction ? "production" : 'development',  
+  mode: isProduction ? "production" : 'development',
   entry: './src/index.ts',
   module: {
     rules: [
@@ -14,15 +14,21 @@ module.exports = {
         test: /\.tsx?$/,
         use: 'ts-loader',
         exclude: /node_modules/
-      },  
-      { 
+      },
+      {
         test: /\.(sass|scss)$/,
         use: [
           'style-loader',
           'css-loader',
           'sass-loader',
         ]
-      }
+      },
+      {
+         test: /\.(png|svg|jpg|gif)$/,
+            use: [
+            'file-loader'
+           ]
+       }
     ]
   },
   resolve: {

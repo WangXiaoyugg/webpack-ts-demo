@@ -10,4 +10,7 @@ import "./common/reset.scss"
 // import './random-quotes/index'
 
 // pass message
-import "./pass-message/index"
+// import "./pass-message/index"
+
+// counter
+import "./counter/index"

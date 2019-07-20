@@ -7,12 +7,13 @@
     <title><%= htmlWebpackPlugin.options.title %></title>
 </head>
 <body>
-    <div class="container">
-        <h2>A message you would like to send</h2>
-        <input type="text" id="message" />
-        <button id="send">press to send</button>
-        <h3>Last Message Delivered</h3>
-        <p class="message-out"></p>
+    <div class="counter-box">
+        <h1>counter</h1>
+        <h1 class="counter">0</h1>
+        <div class="buttons">
+            <button class="btn" id="lowerCountBtn">Lower Count</button>
+            <button class="btn" id="addCountBtn">Add Count</button>
+        </div>
     </div>
 </body>
 </html>

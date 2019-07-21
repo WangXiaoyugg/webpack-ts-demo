@@ -13,4 +13,7 @@ import "./common/reset.scss"
 // import "./pass-message/index"
 
 // counter
-import "./counter/index"
+// import "./counter/index"
+
+// img slider
+import './img-slider/index'

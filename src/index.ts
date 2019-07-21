@@ -16,4 +16,7 @@ import "./common/reset.scss"
 // import "./counter/index"
 
 // img slider
-import './img-slider/index'
+// import './img-slider/index'
+
+// calculator
+import "./calculator/index"

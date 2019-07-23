@@ -20,3 +20,6 @@ import "./common/reset.scss"
 
 // calculator
 import "./calculator/index"
+
+// 学习letPad 源码实现
+// import leftPad from "../lib/left-pad"

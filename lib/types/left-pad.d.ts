@@ -1,0 +1,1 @@
+declare function leftPad(str: string, len: number, ch: string):string

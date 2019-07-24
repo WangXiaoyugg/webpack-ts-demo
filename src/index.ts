@@ -23,3 +23,6 @@ import "./calculator/index"
 
 // 学习letPad 源码实现
 // import leftPad from "../lib/left-pad"
+
+// 学习repeat-string 源码实现
+import repeat from '../lib/repeat-string'

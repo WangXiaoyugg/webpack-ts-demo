@@ -19,10 +19,13 @@ import "./common/reset.scss"
 // import './img-slider/index'
 
 // calculator
-import "./calculator/index"
+// import "./calculator/index"
 
 // 学习letPad 源码实现
 // import leftPad from "../lib/left-pad"
 
 // 学习repeat-string 源码实现
-import repeat from '../lib/repeat-string'
+// import repeat from '../lib/repeat-string'
+
+// digital clock
+import './digital-clock/index'

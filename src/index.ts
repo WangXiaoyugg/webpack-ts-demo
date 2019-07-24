@@ -28,4 +28,7 @@ import "./common/reset.scss"
 // import repeat from '../lib/repeat-string'
 
 // digital clock
-import './digital-clock/index'
+// import './digital-clock/index'
+
+// navbar 
+import "./navbar/index"
